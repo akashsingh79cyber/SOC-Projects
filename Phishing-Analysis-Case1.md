@@ -85,5 +85,4 @@ If accessed by end users, the domain may:
 The domain demonstrates multiple phishing indicators and is confirmed malicious based on threat intelligence sources. Immediate blocking and escalation recommended.
 
 ## 9. Investigated Image 
-- ![VirusTotal Scan](vt-result.png)
-
+- ![VirusTotal Scan](Screenshot 2026-02-20 004947.png)
